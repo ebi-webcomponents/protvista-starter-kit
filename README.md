@@ -2,7 +2,7 @@
 
 A template repository for putting your own protein annotations on screen next to UniProt's — no build step, no npm, no JavaScript.
 
-The page loads the viewer, `protvista-uniprot@5.0.0-beta.5`, from the jsDelivr CDN. You don't install anything.
+The page loads the viewer, `protvista-uniprot@5.0.0`, from the jsDelivr CDN. You don't install anything.
 
 ## Use it
 
@@ -130,7 +130,9 @@ Do check what is in `data/` before you do this. Publishing the site publishes th
 
 ## Getting help
 
-Questions, bugs, and suggestions go to the main [ProtVista repository](https://github.com/ebi-webcomponents/protvista/issues) — your copy of this template has no maintainers watching it.
+Questions, bugs, and suggestions go to the main [ProtVista repository](https://github.com/ebi-webcomponents/protvista/issues) — your copy of this template has no maintainers watching it. That includes anything in these instructions that confused you, and configs you think others could use.
+
+Want to change ProtVista itself? See [Contributing](https://github.com/ebi-webcomponents/protvista/blob/next/CONTRIBUTING.md#contributing-via-a-fork).
 
 The full documentation is at <https://ebi-webcomponents.github.io/protvista/>, and the [tutorial](https://ebi-webcomponents.github.io/protvista/tutorial) walks through the same ground as this kit in more detail.
 
